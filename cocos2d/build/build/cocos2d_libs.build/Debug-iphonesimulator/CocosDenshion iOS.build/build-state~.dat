@@ -1,0 +1,350 @@
+TCocosDenshion iOS
+v6
+r1
+cCheck dependencies
+cCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDAudioManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CocosDenshion.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDOpenALSupport.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libCocosDenshion\ iOS.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005258E59B00000000000003B5
+t1381557659
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005258E5A700000000000001A0
+t1381557671
+s416
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libCocosDenshion iOS.a
+t2
+s0
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CDAudioManager.o
+t1394644046
+s92940
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CDOpenALSupport.o
+t1394644046
+s14568
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CocosDenshion iOS.LinkFileList
+c000000005320944D0000000000000321
+t1394644045
+s801
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CocosDenshion.o
+t1394644046
+s126828
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/SimpleAudioEngine.o
+t1394644047
+s72916
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o
+t1394644046
+s37380
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDAudioManager.m
+c00000000530F1859000000000000781D
+t1393498201
+s30749
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDOpenALSupport.m
+c00000000530F18590000000000002AA4
+t1393498201
+s10916
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CocosDenshion.m
+c00000000530F1859000000000000CE44
+t1393498201
+s52804
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm
+c00000000530F18590000000000001DE5
+t1393498201
+s7653
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m
+c00000000530F18590000000000001663
+t1393498201
+s5731
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6ac16fcdcbd0b841^586f70cdcbd0b841^---0#1#1#--18"Check dependencies36"CBA29BE3-C027-4E75-8EA1-268BA63D5C90-
+
+CCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDAudioManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416336845.441532
+e416336846.391082
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CDAudioManager.o
+x/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDAudioManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDAudioManager.m
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDAudioManager.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CocosDenshion.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDConfig.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDOpenALSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDAudioManager.m262"CompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDAudioManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler935571cdcbd0b841^5b2564cecbd0b841^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDAudioManager.m0000000000000000^4429"CompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDAudioManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bui.khanh/work/git/ThreeDots/cocos2d/build    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCOCOS2D_DEBUG=1 -DUSE_FILE32API -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -DCC_TARGET_OS_IPHONE -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1.1 -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/CocosDenshion\ iOS.hmap -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/.. -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/physics -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/math/kazmath -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/platform -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/audio/include -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/editor-support -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/ui -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../external/chipmunk/include/chipmunk -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../external -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/storage -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/platform/ios -I/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/include -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources/i386 -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources -F/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios -MMD -MT dependencies -MF /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.d --serialize-diagnostics /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.dia -c /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDAudioManager.m -o /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.o36"B4E6954F-FC88-4675-9F17-0920FA65BF2F-
+bAB54CD16-D612-4A7C-BE07-40730A357DEF
+
+CCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDOpenALSupport.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416336846.157626
+e416336846.391709
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CDOpenALSupport.o
+x/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDOpenALSupport.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDOpenALSupport.m
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDOpenALSupport.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CocosDenshion.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDConfig.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDOpenALSupport.m264"CompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDOpenALSupport.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd88028cecbd0b841^ee5c64cecbd0b841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDOpenALSupport.m0000000000000000^4435"CompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDOpenALSupport.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bui.khanh/work/git/ThreeDots/cocos2d/build    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCOCOS2D_DEBUG=1 -DUSE_FILE32API -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -DCC_TARGET_OS_IPHONE -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1.1 -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/CocosDenshion\ iOS.hmap -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/.. -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/physics -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/math/kazmath -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/platform -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/audio/include -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/editor-support -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/ui -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../external/chipmunk/include/chipmunk -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../external -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/storage -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/platform/ios -I/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/include -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources/i386 -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources -F/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios -MMD -MT dependencies -MF /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.d --serialize-diagnostics /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.dia -c /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDOpenALSupport.m -o /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.o36"1C94E6EF-348B-4DD0-A695-B0092F6A6FA6-
+bAB54CD16-D612-4A7C-BE07-40730A357DEF
+
+CCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CocosDenshion.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416336845.441557
+e416336846.156188
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CocosDenshion.o
+x/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CocosDenshion.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CocosDenshion.m
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CocosDenshion.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDConfig.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDOpenALSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CocosDenshion.m260"CompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CocosDenshion.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdeac71cdcbd0b841^dffb27cecbd0b841^---0#0#1#-19%DVTDocumentLocation2@91"file://localhost/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CocosDenshion.m0000000000000000^4423"CompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CocosDenshion.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bui.khanh/work/git/ThreeDots/cocos2d/build    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCOCOS2D_DEBUG=1 -DUSE_FILE32API -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -DCC_TARGET_OS_IPHONE -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1.1 -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/CocosDenshion\ iOS.hmap -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/.. -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/physics -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/math/kazmath -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/platform -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/audio/include -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/editor-support -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/ui -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../external/chipmunk/include/chipmunk -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../external -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/storage -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/platform/ios -I/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/include -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources/i386 -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources -F/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios -MMD -MT dependencies -MF /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.d --serialize-diagnostics /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.dia -c /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CocosDenshion.m -o /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.o36"CB3FE958-B53F-4507-ABF1-5A51AD15362B-
+bAB54CD16-D612-4A7C-BE07-40730A357DEF
+
+CCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s416336845.441799
+e416336847.913094
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/SimpleAudioEngine.o
+x/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/include/SimpleAudioEngine.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/include/Export.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDAudioManager.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CocosDenshion.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDConfig.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDOpenALSupport.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/cocos2d.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccConfig.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAction.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCRef.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCGeometry.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccMacros.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCConsole.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCStdC.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCAffineTransform.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/utility.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/plane.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCArray.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccCArray.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCGL.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccGLStateCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCGLProgram.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCScriptSupport.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCCommon.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTouch.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventTouch.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEvent.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventKeyboard.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCSet.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCProtocols.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccTypes.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTexture2D.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventDispatcher.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListener.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCVector.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAnimation.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCValue.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionManager.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionEase.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionTween.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDictionary.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/uthash.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCString.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCMap.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCInteger.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCFloat.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDouble.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCBool.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCNS.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCData.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCGrabber.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCConfiguration.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDirector.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventType.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabel.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTextureAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLayer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCScene.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTransition.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCMenu.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSprite.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCImage.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCFrustum.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerCustom.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventCustom.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCDevice.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCFileUtils.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCSAXParser.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCThread.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCApplication.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCGLView.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCShaderCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccShaders.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccUTF8.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCNotificationCenter.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCProfiling.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCUserDefault.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCVertex.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCIMEDelegate.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCIMEDispatcher.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTextureCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerTouch.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerMouse.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventMouse.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventAcceleration.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCScheduler.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCComponent.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDeprecated.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm271"CompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compilerd94171cdcbd0b841^87c0e9cfcbd0b841^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm0000000000000000^4525"CompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bui.khanh/work/git/ThreeDots/cocos2d/build    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wnon-virtual-dtor -Woverloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DCOCOS2D_DEBUG=1 -DUSE_FILE32API -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -DCC_TARGET_OS_IPHONE -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1.1 -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/CocosDenshion\ iOS.hmap -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/.. -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/physics -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/math/kazmath -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/platform -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/audio/include -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/editor-support -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/ui -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../external/chipmunk/include/chipmunk -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../external -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/storage -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/platform/ios -I/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/include -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources/i386 -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources -F/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios -MMD -MT dependencies -MF /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.d --serialize-diagnostics /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.dia -c /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm -o /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.o36"4DB1B3D6-6402-4417-B0F3-355A7EE3B345-
+bAB54CD16-D612-4A7C-BE07-40730A357DEF
+
+CCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416336845.442585
+e416336846.341433
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o
+x/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDAudioManager.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CocosDenshion.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDConfig.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/CDOpenALSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m278"CompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler116f71cdcbd0b841^e06857cecbd0b841^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m0000000000000000^4477"CompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bui.khanh/work/git/ThreeDots/cocos2d/build    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCOCOS2D_DEBUG=1 -DUSE_FILE32API -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -DCC_TARGET_OS_IPHONE -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1.1 -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/CocosDenshion\ iOS.hmap -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/.. -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/physics -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/math/kazmath -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/platform -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/audio/include -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/editor-support -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/ui -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../external/chipmunk/include/chipmunk -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../external -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/storage -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/platform/ios -I/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/include -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources/i386 -I/Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources -F/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios -MMD -MT dependencies -MF /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.d --serialize-diagnostics /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.dia -c /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m -o /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o36"81898F14-9397-4562-A0ED-A68D5D353F52-
+bAB54CD16-D612-4A7C-BE07-40730A357DEF
+
+CLibtool /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libCocosDenshion\ iOS.a normal i386
+s416336847.921866
+e416336847.932298
+r1
+xLibtool
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libCocosDenshion iOS.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Libtool /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libCocosDenshion\ iOS.a normal i38693"Libtool /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libCocosDenshion\ iOS.a normal i3864417eccfcbd0b841^8aabeecfcbd0b841^---0#0#1#--1371"Libtool /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libCocosDenshion\ iOS.a normal i386    cd /Users/bui.khanh/work/git/ThreeDots/cocos2d/build    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios -filelist /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion\ iOS.LinkFileList -o /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libCocosDenshion\ iOS.a36"0877990D-2CD3-4A01-9C10-7EA775F95FDF-
+bAB54CD16-D612-4A7C-BE07-40730A357DEF
+

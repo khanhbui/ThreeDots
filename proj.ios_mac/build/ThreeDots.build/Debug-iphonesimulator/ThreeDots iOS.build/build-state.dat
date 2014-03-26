@@ -1,0 +1,2557 @@
+TThreeDots iOS
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Info.plist /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Info.plist
+cCpResource ios/Default@2x.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Default@2x.png
+cCpResource ios/Icon-76.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-76.png
+cCpResource ios/Icon-100.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-100.png
+cCpResource ios/Icon-120.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-120.png
+cCpResource /Users/bui.khanh/work/git/ThreeDots/Resources/CloseNormal.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/CloseNormal.png
+cCpResource ios/Icon-152.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-152.png
+cCpResource ios/Default-568h@2x.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Default-568h@2x.png
+cCpResource ios/Icon-72.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-72.png
+cCpResource /Users/bui.khanh/work/git/ThreeDots/Resources/CloseSelected.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/CloseSelected.png
+cCpResource ios/Icon-50.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-50.png
+cCpResource ios/Icon-114.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-114.png
+cCpResource /Users/bui.khanh/work/git/ThreeDots/Resources/HelloWorld.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/HelloWorld.png
+cCpResource ios/Icon-29.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-29.png
+cCpResource ios/Icon-40.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-40.png
+cCpResource ios/Icon-144.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-144.png
+cCpResource ios/Icon-80.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-80.png
+cCpResource ios/Icon-57.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-57.png
+cCpResource ios/Default.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Default.png
+cCpResource ios/Icon-58.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-58.png
+cProcessPCH++ /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-ajsmehdecyrifkdgzcftgznktsup/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-hksqpqyceznnhsfifprpdqhgpnmp/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-atnvjkfxeuikfadndwhwwcyknjeq/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/AppController.o /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/AppController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/RootViewController.o /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/RootViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/AppDelegate.o /Users/bui.khanh/work/git/ThreeDots/Classes/AppDelegate.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/main.o /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/HelloWorldScene.o /Users/bui.khanh/work/git/ThreeDots/Classes/HelloWorldScene.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/ThreeDots\ iOS normal i386
+cGenerateDSYMFile /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app.dSYM /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/ThreeDots\ iOS
+cTouch /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c000000005258E584000000000027C450
+t1381557636
+s2606160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005258E59B00000000000003B5
+t1381557659
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005258E5A700000000000001A0
+t1381557671
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000005258E5A9000000000047C980
+t1381557673
+s4704640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+c000000005258E5A90000000000098030
+t1381557673
+s622640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000005258E5AB00000000009040F0
+t1381557675
+s9453808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005258E5AB00000000005B82A0
+t1381557675
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005258E5AB0000000000445870
+t1381557675
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c000000005258E5AC00000000001D2C90
+t1381557676
+s1911952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005258E5AD000000000088C680
+t1381557677
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000005258E5B0000000000007C070
+t1381557680
+s508016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005258E5B00000000000037620
+t1381557680
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005258E5B100000000004848F0
+t1381557681
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005258E5B40000000001DB9910
+t1381557684
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005258E5C900000000002B9F20
+t1381557705
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c000000005258E5D70000000000002338
+t1381557719
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c000000005258E5D8000000000008D300
+t1381557720
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libc++.dylib
+c000000005258E5D800000000001720C0
+t1381557720
+s1515712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libc++abi.dylib
+c000000005258E5D800000000000681A0
+t1381557720
+s426400
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c000000005258E5D8000000000038ACB0
+t1381557720
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libz.dylib
+c000000005258E5D8000000000002B700
+t1381557720
+s177920
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c00000000513F5B2900000000000121D0
+t1363106601
+s74192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c000000005258E5D80000000000013500
+t1381557720
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c000000005258E5D80000000000033BA0
+t1381557720
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c000000005258E5D8000000000001CFB0
+t1381557720
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c000000005258E5D8000000000001B2B0
+t1381557720
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c000000005258E5D800000000000632B0
+t1381557720
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c000000005258E5D80000000000008880
+t1381557720
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005258E5D80000000000015080
+t1381557720
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005258E5D800000000000230E0
+t1381557720
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c000000005258E5D8000000000000E380
+t1381557720
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c000000005258E5D80000000000087200
+t1381557720
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c000000005258E5D800000000000171A0
+t1381557720
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c000000005258E5D80000000000039C10
+t1381557720
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c000000005258E5D8000000000000B0B0
+t1381557720
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c000000005258E5D80000000000167FE0
+t1381557720
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005258E5D800000000000106A0
+t1381557720
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005258E5D8000000000001CE40
+t1381557720
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005258E5D80000000000071040
+t1381557720
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005258E5D80000000000067A10
+t1381557720
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c000000005258E5D8000000000001BAD0
+t1381557720
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c000000005258E5D80000000000088BA0
+t1381557720
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+c000000005258E579000000000000B870
+t1381557625
+s47216
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c000000005258E57A0000000000005004
+t1381557626
+s20484
+
+N/Users/bui.khanh/work/git/ThreeDots/Classes/AppDelegate.cpp
+c00000000532035B70000000000000558
+t1394619831
+s1368
+
+N/Users/bui.khanh/work/git/ThreeDots/Classes/AppDelegate.h
+c00000000532035B700000000000003B3
+t1394619831
+s947
+
+N/Users/bui.khanh/work/git/ThreeDots/Classes/HelloWorldScene.cpp
+c00000000532035B700000000000009DB
+t1394619831
+s2523
+
+N/Users/bui.khanh/work/git/ThreeDots/Classes/HelloWorldScene.h
+c00000000532035B70000000000000264
+t1394619831
+s612
+
+N/Users/bui.khanh/work/git/ThreeDots/Resources/CloseNormal.png
+c00000000532035B700000000000018A7
+t1394619831
+s6311
+
+N/Users/bui.khanh/work/git/ThreeDots/Resources/CloseSelected.png
+c00000000532035B7000000000000157B
+t1394619831
+s5499
+
+N/Users/bui.khanh/work/git/ThreeDots/Resources/HelloWorld.png
+c00000000532035B70000000000021E19
+t1394619831
+s138777
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app
+t1394644357
+s816
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app.dSYM
+t2
+s0
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/CloseNormal.png
+t1394644352
+s6311
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/CloseSelected.png
+t1394644352
+s5499
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Default-568h@2x.png
+t1394644352
+s193731
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Default.png
+t1394644352
+s89508
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Default@2x.png
+t1394644352
+s580904
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/HelloWorld.png
+t1394644352
+s138777
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-100.png
+t1394644352
+s17283
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-114.png
+t1394644352
+s16537
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-120.png
+t1394644352
+s23871
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-144.png
+t1394644352
+s26403
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-152.png
+t1394644352
+s33665
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-29.png
+t1394644352
+s4038
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-40.png
+t1394644352
+s5478
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-50.png
+t1394644352
+s7038
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-57.png
+t1394644352
+s8960
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-58.png
+t1394644352
+s8433
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-72.png
+t1394644352
+s11453
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-76.png
+t1394644352
+s13250
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-80.png
+t1394644352
+s12489
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Info.plist
+t1394644352
+s1164
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/PkgInfo
+t1394644352
+s8
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/ThreeDots iOS
+t1394644357
+s8130236
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libCocosDenshion iOS.a
+c000000005320958000000000000566D0
+t1394644352
+s354000
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libbox2d iOS.a
+c000000005320958000000000001D4648
+t1394644352
+s1918536
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libchipmunk iOS.a
+c000000005320957C00000000000B85E8
+t1394644348
+s755176
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libcocos2dx iOS.a
+c00000000532095800000000007E50A78
+t1394644352
+s132450936
+
+N/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libcocos2dx-extensions iOS.a
+c00000000532095800000000000FA9890
+t1394644352
+s16423056
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAction.h
+c00000000532035B600000000000020E6
+t1394619830
+s8422
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionCamera.h
+c00000000530F1859000000000000110F
+t1393498201
+s4367
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionCatmullRom.h
+c00000000532035B60000000000002037
+t1394619830
+s8247
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionEase.h
+c00000000532035B60000000000005ABB
+t1394619830
+s23227
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionGrid.h
+c00000000530F185900000000000023DA
+t1393498201
+s9178
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionGrid3D.h
+c00000000532035B600000000000029A8
+t1394619830
+s10664
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionInstant.h
+c00000000532035B60000000000002B55
+t1394619830
+s11093
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionInterval.h
+c00000000532035B60000000000006EF0
+t1394619830
+s28400
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionManager.h
+c00000000532035B60000000000001376
+t1394619830
+s4982
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionPageTurn3D.h
+c00000000530F1859000000000000088D
+t1393498201
+s2189
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionProgressTimer.h
+c00000000530F18590000000000000C96
+t1393498201
+s3222
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionTiledGrid.h
+c00000000530F18590000000000002DA1
+t1393498201
+s11681
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionTween.h
+c00000000530F18590000000000000C48
+t1393498201
+s3144
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAnimation.h
+c00000000532035B600000000000022FC
+t1394619830
+s8956
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAnimationCache.h
+c00000000532035B60000000000001138
+t1394619830
+s4408
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAtlasNode.h
+c00000000532035B60000000000001346
+t1394619830
+s4934
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCClippingNode.h
+c00000000532035B60000000000001282
+t1394619830
+s4738
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCComponent.h
+c00000000532035B600000000000008AC
+t1394619830
+s2220
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCComponentContainer.h
+c00000000530F1859000000000000081C
+t1393498201
+s2076
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCConfiguration.h
+c00000000532035B60000000000001310
+t1394619830
+s4880
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDeprecated.h
+c00000000532035B6000000000000BC31
+t1394619830
+s48177
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDirector.h
+c00000000532035B60000000000003D06
+t1394619830
+s15622
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDrawNode.h
+c00000000532035B6000000000000107C
+t1394619830
+s4220
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDrawingPrimitives.h
+c00000000530F185900000000000016C5
+t1393498201
+s5829
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEvent.h
+c00000000532035B60000000000000AD4
+t1394619830
+s2772
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventAcceleration.h
+c00000000532035B60000000000000694
+t1394619830
+s1684
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventCustom.h
+c00000000530F1859000000000000079E
+t1393498201
+s1950
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventDispatcher.h
+c00000000532035B60000000000002897
+t1394619830
+s10391
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventKeyboard.h
+c00000000530F18590000000000001E16
+t1393498201
+s7702
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListener.h
+c00000000532035B60000000000000F5B
+t1394619830
+s3931
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+c00000000532035B6000000000000086B
+t1394619830
+s2155
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerCustom.h
+c00000000532035B60000000000000B54
+t1394619830
+s2900
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+c00000000530F185900000000000007E4
+t1393498201
+s2020
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerMouse.h
+c00000000530F185900000000000007FF
+t1393498201
+s2047
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerTouch.h
+c00000000532035B60000000000000C3F
+t1394619830
+s3135
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventMouse.h
+c00000000530F18590000000000000AA7
+t1393498201
+s2727
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventTouch.h
+c00000000532035B60000000000000874
+t1394619830
+s2164
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventType.h
+c00000000530F185900000000000007AD
+t1393498201
+s1965
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCFontAtlas.h
+c00000000532035B60000000000000C30
+t1394619830
+s3120
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCGLProgram.h
+c00000000532035B60000000000002C41
+t1394619830
+s11329
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCGrabber.h
+c00000000532035B600000000000007E5
+t1394619830
+s2021
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCGrid.h
+c00000000532035B60000000000001A0B
+t1394619830
+s6667
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCIMEDelegate.h
+c00000000530F18590000000000001101
+t1393498201
+s4353
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCIMEDispatcher.h
+c00000000530F18590000000000000EB5
+t1393498201
+s3765
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabel.h
+c00000000532035B600000000000030E2
+t1394619830
+s12514
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabelAtlas.h
+c00000000530F18590000000000000FC9
+t1393498201
+s4041
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabelBMFont.h
+c00000000532035B600000000000012D3
+t1394619830
+s4819
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabelTTF.h
+c00000000532035B60000000000001748
+t1394619830
+s5960
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLayer.h
+c00000000532035B6000000000000486D
+t1394619830
+s18541
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCMenu.h
+c00000000530F18590000000000001324
+t1393498201
+s4900
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCMenuItem.h
+c00000000532035B60000000000004F0C
+t1394619830
+s20236
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCMotionStreak.h
+c00000000532035B60000000000001561
+t1394619830
+s5473
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCNode.h
+c000000005320363C000000000000D5F1
+t1394619964
+s54769
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCNodeGrid.h
+c00000000532035B6000000000000095D
+t1394619830
+s2397
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCNotificationCenter.h
+c00000000532035B60000000000001A00
+t1394619830
+s6656
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParallaxNode.h
+c00000000532035B60000000000000CF1
+t1394619830
+s3313
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleBatchNode.h
+c00000000532035B6000000000000174F
+t1394619830
+s5967
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleExamples.h
+c00000000530F18590000000000001D84
+t1393498201
+s7556
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleSystem.h
+c00000000530F18590000000000004DDC
+t1393498201
+s19932
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleSystemQuad.h
+c00000000532035B600000000000012E8
+t1394619830
+s4840
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCProfiling.h
+c00000000532035B60000000000000F46
+t1394619830
+s3910
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCProgressTimer.h
+c00000000532035B600000000000015DC
+t1394619830
+s5596
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCProtocols.h
+c00000000530F18590000000000001D18
+t1393498201
+s7448
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCRenderTexture.h
+c00000000532035B60000000000002645
+t1394619830
+s9797
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCScene.h
+c00000000532035B60000000000000B08
+t1394619830
+s2824
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCScheduler.h
+c00000000532035B60000000000004101
+t1394619830
+s16641
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCScriptSupport.h
+c00000000532035B60000000000002F33
+t1394619830
+s12083
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCShaderCache.h
+c00000000532035B60000000000000BE3
+t1394619830
+s3043
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSprite.h
+c00000000532035B60000000000005536
+t1394619830
+s21814
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSpriteBatchNode.h
+c00000000532035B600000000000020B7
+t1394619830
+s8375
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSpriteFrame.h
+c00000000532035B60000000000001791
+t1394619830
+s6033
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSpriteFrameCache.h
+c00000000532035B60000000000001937
+t1394619830
+s6455
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXLayer.h
+c00000000531952A100000000000027CC
+t1394168481
+s10188
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXObjectGroup.h
+c00000000532035B60000000000000F47
+t1394619830
+s3911
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXTiledMap.h
+c00000000531952A10000000000001FAC
+t1394168481
+s8108
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXXMLParser.h
+c00000000532035B600000000000028A4
+t1394619830
+s10404
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTextFieldTTF.h
+c00000000532035B6000000000000182E
+t1394619830
+s6190
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTexture2D.h
+c00000000532035B6000000000000415A
+t1394619830
+s16730
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTextureAtlas.h
+c00000000532035B60000000000002243
+t1394619830
+s8771
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTextureCache.h
+c00000000532035B600000000000023D7
+t1394619830
+s9175
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTileMapAtlas.h
+c00000000530F18590000000000000F56
+t1393498201
+s3926
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTouch.h
+c00000000532035B60000000000000BF1
+t1394619830
+s3057
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTransition.h
+c00000000532035B60000000000004E88
+t1394619830
+s20104
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTransitionPageTurn.h
+c00000000532035B60000000000000D8F
+t1394619830
+s3471
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTransitionProgress.h
+c00000000530F185900000000000010CE
+t1393498201
+s4302
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTweenFunction.h
+c00000000532035B60000000000001014
+t1394619830
+s4116
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCUserDefault.h
+c00000000530F18590000000000001602
+t1393498201
+s5634
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCVertex.h
+c00000000530F185900000000000007E4
+t1393498201
+s2020
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccCArray.h
+c00000000532035B60000000000001FF4
+t1394619830
+s8180
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccConfig.h
+c00000000532035B6000000000000246B
+t1394619830
+s9323
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccGLStateCache.h
+c00000000531952A1000000000000132E
+t1394168481
+s4910
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccMacros.h
+c00000000532035B60000000000002CE7
+t1394619830
+s11495
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccShaders.h
+c00000000532035B60000000000000B80
+t1394619830
+s2944
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccTypes.h
+c00000000530F18590000000000002A1B
+t1393498201
+s10779
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccUTF8.h
+c00000000531952A10000000000000FEC
+t1394168481
+s4076
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/cocos2d.h
+c00000000532035B60000000000001C87
+t1394619830
+s7303
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+c00000000532035B60000000000000CC9
+t1394619830
+s3273
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCCommon.h
+c00000000531952A100000000000007A6
+t1394168481
+s1958
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCDevice.h
+c00000000532035B60000000000000ABC
+t1394619830
+s2748
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCFileUtils.h
+c00000000532035B6000000000000452D
+t1394619830
+s17709
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+c00000000532035B60000000000001CDB
+t1394619830
+s7387
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCImage.h
+c00000000532035B60000000000001C51
+t1394619830
+s7249
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCSAXParser.h
+c00000000530F18590000000000000B6D
+t1393498201
+s2925
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCThread.h
+c00000000530F18590000000000000816
+t1393498201
+s2070
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCApplication.h
+c00000000531952A10000000000000B47
+t1394168481
+s2887
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCEAGLView.h
+c00000000531952A10000000000001DDE
+t1394168481
+s7646
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCESRenderer.h
+c00000000531952A100000000000008E3
+t1394168481
+s2275
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCGL.h
+c00000000531952A10000000000000787
+t1394168481
+s1927
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCGLView.h
+c00000000532035B60000000000000CAB
+t1394619830
+s3243
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+c00000000531952A100000000000006DD
+t1394168481
+s1757
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCStdC.h
+c00000000531952A10000000000000718
+t1394168481
+s1816
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/Simulation/AccelerometerSimulation.h
+c00000000531952A10000000000000B76
+t1394168481
+s2934
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+c00000000530F185900000000000007D0
+t1393498201
+s2000
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+c00000000530F185900000000000006AD
+t1393498201
+s1709
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCFrustum.h
+c00000000530F18590000000000000E14
+t1393498201
+s3604
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+c00000000532035B600000000000007EA
+t1394619830
+s2026
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+c00000000532035B600000000000008A3
+t1394619830
+s2211
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+c00000000532035B60000000000000B37
+t1394619830
+s2871
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+c00000000532035B60000000000000894
+t1394619830
+s2196
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+c00000000530F18590000000000000BB9
+t1393498201
+s3001
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+c00000000530F18590000000000000570
+t1393498201
+s1392
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderer.h
+c00000000532035B60000000000001272
+t1394619830
+s4722
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/uthash.h
+c00000000530F1859000000000000ECB6
+t1393498201
+s60598
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCAffineTransform.h
+c00000000530F18590000000000000C07
+t1393498201
+s3079
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCArray.h
+c00000000532035B6000000000000439A
+t1394619830
+s17306
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCAutoreleasePool.h
+c00000000532035B600000000000012BE
+t1394619830
+s4798
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCBool.h
+c00000000532035B6000000000000081F
+t1394619830
+s2079
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCConsole.h
+c00000000532035B600000000000011E5
+t1394619830
+s4581
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCData.h
+c00000000530F18590000000000000BE1
+t1393498201
+s3041
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDataVisitor.h
+c00000000532035B60000000000000D26
+t1394619830
+s3366
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDictionary.h
+c00000000532035B60000000000003C66
+t1394619830
+s15462
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDouble.h
+c00000000532035B60000000000000815
+t1394619830
+s2069
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCFloat.h
+c00000000532035B6000000000000080C
+t1394619830
+s2060
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCGeometry.h
+c00000000532035B60000000000003B0B
+t1394619830
+s15115
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCInteger.h
+c00000000532035B600000000000008C8
+t1394619830
+s2248
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCMap.h
+c00000000532035B60000000000002CCB
+t1394619830
+s11467
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCNS.h
+c00000000530F18590000000000000DEF
+t1393498201
+s3567
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCPlatformConfig.h
+c00000000530F185900000000000010ED
+t1393498201
+s4333
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCPlatformMacros.h
+c00000000530F18590000000000002E98
+t1393498201
+s11928
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCRef.h
+c00000000532035B60000000000001119
+t1394619830
+s4377
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCSet.h
+c00000000532035B60000000000000C59
+t1394619830
+s3161
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCString.h
+c00000000532035B60000000000001950
+t1394619830
+s6480
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCValue.h
+c00000000530F18590000000000000FDC
+t1393498201
+s4060
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCVector.h
+c00000000532035B60000000000003BAD
+t1394619830
+s15277
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+c00000000532035B60000000000000886
+t1394619830
+s2182
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+c00000000532035B600000000000009C1
+t1394619830
+s2497
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+c00000000532035B6000000000000063D
+t1394619830
+s1597
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+c00000000532035B60000000000000E18
+t1394619830
+s3608
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+c00000000532035B60000000000001076
+t1394619830
+s4214
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/plane.h
+c00000000532035B60000000000000C98
+t1394619830
+s3224
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+c00000000532035B6000000000000145A
+t1394619830
+s5210
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+c00000000532035B600000000000008AD
+t1394619830
+s2221
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+c00000000532035B60000000000000233
+t1394619830
+s563
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/utility.h
+c00000000532035B60000000000000A28
+t1394619830
+s2600
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+c00000000532035B60000000000001003
+t1394619830
+s4099
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+c00000000532035B6000000000000122F
+t1394619830
+s4655
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsBody.h
+c00000000532035B60000000000003E4C
+t1394619830
+s15948
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsContact.h
+c00000000532035B6000000000000244B
+t1394619830
+s9291
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsJoint.h
+c00000000532035B60000000000002684
+t1394619830
+s9860
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsShape.h
+c00000000532035B6000000000000325A
+t1394619830
+s12890
+
+N/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsWorld.h
+c00000000532035B60000000000002012
+t1394619830
+s8210
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots iOS.build/Objects-normal/i386/AppController.o
+t1394644051
+s745336
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots iOS.build/Objects-normal/i386/AppDelegate.o
+t1394644051
+s714424
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots iOS.build/Objects-normal/i386/HelloWorldScene.o
+t1394644052
+s896368
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots iOS.build/Objects-normal/i386/RootViewController.o
+t1394644051
+s747016
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots iOS.build/Objects-normal/i386/ThreeDots iOS.LinkFileList
+c000000005320945000000000000002E5
+t1394644048
+s741
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots iOS.build/Objects-normal/i386/main.o
+t1394644048
+s4228
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/AppController.h
+c00000000532035B700000000000000BD
+t1394619831
+s189
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/AppController.mm
+c00000000532035B70000000000001648
+t1394619831
+s5704
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Default-568h@2x.png
+c00000000532035B7000000000002F4C3
+t1394619831
+s193731
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Default.png
+c00000000532035B70000000000015DA4
+t1394619831
+s89508
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Default@2x.png
+c00000000532035B7000000000008DD28
+t1394619831
+s580904
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-100.png
+c00000000532035B70000000000004383
+t1394619831
+s17283
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-114.png
+c00000000532035B70000000000004099
+t1394619831
+s16537
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-120.png
+c00000000532035B70000000000005D3F
+t1394619831
+s23871
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-144.png
+c00000000532035B70000000000006723
+t1394619831
+s26403
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-152.png
+c00000000532035B70000000000008381
+t1394619831
+s33665
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-29.png
+c00000000532035B70000000000000FC6
+t1394619831
+s4038
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-40.png
+c00000000532035B70000000000001566
+t1394619831
+s5478
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-50.png
+c00000000532035B70000000000001B7E
+t1394619831
+s7038
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-57.png
+c00000000532035B70000000000002300
+t1394619831
+s8960
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-58.png
+c00000000532035B700000000000020F1
+t1394619831
+s8433
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-72.png
+c00000000532035B70000000000002CBD
+t1394619831
+s11453
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-76.png
+c00000000532035B700000000000033C2
+t1394619831
+s13250
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-80.png
+c00000000532035B700000000000030C9
+t1394619831
+s12489
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Info.plist
+c00000000532035B700000000000007CC
+t1394619831
+s1996
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Prefix.pch
+c00000000532092DB00000000000000B5
+t1394643675
+s181
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/RootViewController.h
+c00000000532035B70000000000000599
+t1394619831
+s1433
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/RootViewController.mm
+c00000000532035B70000000000000DF6
+t1394619831
+s3574
+
+N/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/main.m
+c00000000532092DB0000000000000167
+t1394643675
+s359
+
+N/usr/lib/libSystem.B.dylib
+c00000000513F5B1D000000000000D2A0
+t1363106589
+s53920
+
+N/usr/lib/system/libcache.dylib
+c00000000513F5B290000000000013870
+t1363106601
+s79984
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005270E4380000000000030250
+t1383130168
+s197200
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000513F5B1D0000000000017910
+t1363106589
+s96528
+
+N/usr/lib/system/libcopyfile.dylib
+c00000000513F5B28000000000001A130
+t1363106600
+s106800
+
+N/usr/lib/system/libdnsinfo.dylib
+c000000005270E4A7000000000000C2A0
+t1383130279
+s49824
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000513F5B290000000000008CE0
+t1363106601
+s36064
+
+N/usr/lib/system/liblaunch.dylib
+c000000005270E4AD000000000001D350
+t1383130285
+s119632
+
+N/usr/lib/system/libmacho.dylib
+c00000000513F5B280000000000014F90
+t1363106600
+s85904
+
+N/usr/lib/system/libquarantine.dylib
+c000000005270E4B7000000000000D790
+t1383130295
+s55184
+
+N/usr/lib/system/libremovefile.dylib
+c000000005270E4B7000000000000C330
+t1383130295
+s49968
+
+N/usr/lib/system/libsystem_blocks.dylib
+c00000000513F5B29000000000000A080
+t1363106601
+s41088
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005270E46E00000000001F91C0
+t1383130222
+s2068928
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005270E4AE000000000001BC00
+t1383130286
+s113664
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000513F5B1D000000000008B580
+t1363106589
+s570752
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005270E46E00000000000569B0
+t1383130222
+s354736
+
+N/usr/lib/system/libsystem_m.dylib
+c00000000513F5B1D0000000000070540
+t1363106589
+s460096
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000513F5B1D0000000000025620
+t1363106589
+s153120
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c000000005270E493000000000000C780
+t1383130259
+s51072
+
+N/usr/lib/system/libunc.dylib
+c00000000513F5B24000000000000D430
+t1363106596
+s54320
+
+N/usr/lib/system/libunwind.dylib
+c00000000513F5B29000000000001BAA0
+t1363106601
+s113312
+
+N/var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-ajsmehdecyrifkdgzcftgznktsup/Prefix.pch.pch
+t1394644048
+s6279536
+
+N/var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-atnvjkfxeuikfadndwhwwcyknjeq/Prefix.pch.pch
+t1394644048
+s5336016
+
+N/var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-hksqpqyceznnhsfifprpdqhgpnmp/Prefix.pch.pch
+t1394644048
+s115432
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies5986d400cdd0b841^5914de00cdd0b841^---0#1#1#--18"Check dependencies36"B332BEBB-5AD5-4D2A-B17A-B6B24A456458-
+
+CCompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/AppController.o /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/AppController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s416336848.801731
+e416336851.831495
+r1
+xCompileC
+xbuild/ThreeDots.build/Debug-iphonesimulator/ThreeDots iOS.build/Objects-normal/i386/AppController.o
+x/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/AppController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/AppController.mm
+d/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/AppController.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCEAGLView.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCESRenderer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccConfig.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/cocos2d.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAction.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCRef.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCGeometry.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccMacros.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCConsole.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCStdC.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCAffineTransform.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/utility.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/plane.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCArray.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccCArray.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCGL.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccGLStateCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCGLProgram.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCScriptSupport.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCCommon.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTouch.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventTouch.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEvent.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventKeyboard.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCSet.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCProtocols.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccTypes.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTexture2D.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventDispatcher.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListener.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCVector.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAnimation.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCValue.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionManager.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionEase.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionTween.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDictionary.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/uthash.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCString.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCMap.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCInteger.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCFloat.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDouble.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCBool.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCNS.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCData.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCGrabber.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCConfiguration.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDirector.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventType.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabel.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTextureAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLayer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCScene.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTransition.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCMenu.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSprite.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCImage.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCFrustum.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerCustom.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventCustom.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCDevice.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCFileUtils.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCSAXParser.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCThread.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCApplication.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCGLView.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCShaderCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccShaders.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccUTF8.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCNotificationCenter.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCProfiling.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCUserDefault.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCVertex.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCIMEDelegate.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCIMEDispatcher.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTextureCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerTouch.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerMouse.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventMouse.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventAcceleration.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCScheduler.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCComponent.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDeprecated.h
+d/Users/bui.khanh/work/git/ThreeDots/Classes/AppDelegate.h
+d/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/RootViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/AppController.mm200"CompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/AppController.o ios/AppController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compilerec6bcdd0cbd0b841^94ddd4d3cbd0b841^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/AppController.mm0000000000000000^4722"CompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/AppController.o ios/AppController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/ThreeDots\ iOS.hmap -I/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/include -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/base -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/physics -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/ui -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/network -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/extensions -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/external -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/DerivedSources/i386 -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/DerivedSources -F/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios -include /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-ajsmehdecyrifkdgzcftgznktsup/Prefix.pch -MMD -MT dependencies -MF /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/AppController.d --serialize-diagnostics /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/AppController.dia -c /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/AppController.mm -o /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/AppController.o36"B8941CC3-F8E3-4AAA-86AB-957B467BF705-
+b173606D5-3379-4706-8248-340F0CEDD367
+
+CCompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/AppDelegate.o /Users/bui.khanh/work/git/ThreeDots/Classes/AppDelegate.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s416336848.802002
+e416336851.846920
+r1
+xCompileC
+xbuild/ThreeDots.build/Debug-iphonesimulator/ThreeDots iOS.build/Objects-normal/i386/AppDelegate.o
+x/Users/bui.khanh/work/git/ThreeDots/Classes/AppDelegate.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bui.khanh/work/git/ThreeDots/Classes/AppDelegate.cpp
+d/Users/bui.khanh/work/git/ThreeDots/Classes/AppDelegate.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/cocos2d.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccConfig.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAction.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCRef.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCGeometry.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccMacros.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCConsole.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCStdC.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCAffineTransform.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/utility.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/plane.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCArray.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccCArray.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCGL.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccGLStateCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCGLProgram.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCScriptSupport.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCCommon.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTouch.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventTouch.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEvent.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventKeyboard.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCSet.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCProtocols.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccTypes.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTexture2D.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventDispatcher.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListener.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCVector.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAnimation.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCValue.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionManager.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionEase.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionTween.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDictionary.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/uthash.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCString.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCMap.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCInteger.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCFloat.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDouble.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCBool.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCNS.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCData.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCGrabber.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCConfiguration.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDirector.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventType.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabel.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTextureAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLayer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCScene.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTransition.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCMenu.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSprite.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCImage.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCFrustum.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerCustom.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventCustom.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCDevice.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCFileUtils.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCSAXParser.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCThread.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCApplication.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCGLView.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCShaderCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccShaders.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccUTF8.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCNotificationCenter.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCProfiling.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCUserDefault.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCVertex.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCIMEDelegate.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCIMEDispatcher.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTextureCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerTouch.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerMouse.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventMouse.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventAcceleration.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCScheduler.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCComponent.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDeprecated.h
+d/Users/bui.khanh/work/git/ThreeDots/Classes/HelloWorldScene.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/bui.khanh/work/git/ThreeDots/Classes/AppDelegate.cpp227"CompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/AppDelegate.o /Users/bui.khanh/work/git/ThreeDots/Classes/AppDelegate.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler997ecdd0cbd0b841^a6d1d8d3cbd0b841^---0#0#1#-19%DVTDocumentLocation2@75"file://localhost/Users/bui.khanh/work/git/ThreeDots/Classes/AppDelegate.cpp0000000000000000^4486"CompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/AppDelegate.o /Users/bui.khanh/work/git/ThreeDots/Classes/AppDelegate.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/ThreeDots\ iOS.hmap -I/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/include -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/base -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/physics -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/ui -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/network -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/extensions -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/external -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/DerivedSources/i386 -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/DerivedSources -F/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios -include /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-hksqpqyceznnhsfifprpdqhgpnmp/Prefix.pch -MMD -MT dependencies -MF /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/AppDelegate.dia -c /Users/bui.khanh/work/git/ThreeDots/Classes/AppDelegate.cpp -o /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/AppDelegate.o36"1D6F6A53-6421-447E-A5A0-C6CDBBFC552D-
+b173606D5-3379-4706-8248-340F0CEDD367
+
+CCompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/HelloWorldScene.o /Users/bui.khanh/work/git/ThreeDots/Classes/HelloWorldScene.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s416336848.975791
+e416336852.186575
+r1
+xCompileC
+xbuild/ThreeDots.build/Debug-iphonesimulator/ThreeDots iOS.build/Objects-normal/i386/HelloWorldScene.o
+x/Users/bui.khanh/work/git/ThreeDots/Classes/HelloWorldScene.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bui.khanh/work/git/ThreeDots/Classes/HelloWorldScene.cpp
+d/Users/bui.khanh/work/git/ThreeDots/Classes/HelloWorldScene.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/cocos2d.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccConfig.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAction.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCRef.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCGeometry.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccMacros.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCConsole.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCStdC.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCAffineTransform.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/utility.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/plane.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCArray.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccCArray.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCGL.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccGLStateCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCGLProgram.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCScriptSupport.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCCommon.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTouch.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventTouch.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEvent.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventKeyboard.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCSet.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCProtocols.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccTypes.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTexture2D.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventDispatcher.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListener.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCVector.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAnimation.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCValue.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionManager.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionEase.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionTween.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDictionary.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/uthash.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCString.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCMap.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCInteger.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCFloat.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDouble.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCBool.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCNS.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCData.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCGrabber.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCConfiguration.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDirector.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventType.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabel.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTextureAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLayer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCScene.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTransition.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCMenu.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSprite.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCImage.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCFrustum.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerCustom.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventCustom.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCDevice.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCFileUtils.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCSAXParser.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCThread.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCApplication.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCGLView.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCShaderCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccShaders.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccUTF8.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCNotificationCenter.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCProfiling.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCUserDefault.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCVertex.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCIMEDelegate.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCIMEDispatcher.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTextureCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerTouch.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerMouse.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventMouse.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventAcceleration.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCScheduler.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCComponent.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDeprecated.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/bui.khanh/work/git/ThreeDots/Classes/HelloWorldScene.cpp235"CompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/HelloWorldScene.o /Users/bui.khanh/work/git/ThreeDots/Classes/HelloWorldScene.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler50fff9d0cbd0b841^72c32fd4cbd0b841^---0#0#1#-19%DVTDocumentLocation2@79"file://localhost/Users/bui.khanh/work/git/ThreeDots/Classes/HelloWorldScene.cpp0000000000000000^4510"CompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/HelloWorldScene.o /Users/bui.khanh/work/git/ThreeDots/Classes/HelloWorldScene.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/ThreeDots\ iOS.hmap -I/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/include -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/base -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/physics -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/ui -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/network -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/extensions -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/external -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/DerivedSources/i386 -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/DerivedSources -F/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios -include /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-hksqpqyceznnhsfifprpdqhgpnmp/Prefix.pch -MMD -MT dependencies -MF /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/HelloWorldScene.d --serialize-diagnostics /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/HelloWorldScene.dia -c /Users/bui.khanh/work/git/ThreeDots/Classes/HelloWorldScene.cpp -o /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/HelloWorldScene.o36"92516607-FD0B-4E0E-AF6B-12CC88676317-
+b173606D5-3379-4706-8248-340F0CEDD367
+
+CCompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/RootViewController.o /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/RootViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s416336848.801764
+e416336851.807238
+r1
+xCompileC
+xbuild/ThreeDots.build/Debug-iphonesimulator/ThreeDots iOS.build/Objects-normal/i386/RootViewController.o
+x/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/RootViewController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/RootViewController.mm
+d/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/RootViewController.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/cocos2d.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccConfig.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAction.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCRef.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCPlatformDefine.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCGeometry.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccMacros.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCConsole.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCStdC.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCAffineTransform.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/kazmath.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/vec2.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/utility.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/vec3.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/mat3.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/mat4.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/quaternion.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/plane.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/aabb.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/ray2.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/ray3.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCArray.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccCArray.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCGL.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccGLStateCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCGLProgram.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCScriptSupport.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCCommon.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTouch.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventTouch.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEvent.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventKeyboard.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCSet.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCProtocols.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccTypes.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTexture2D.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventDispatcher.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListener.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCVector.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAnimation.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCValue.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionManager.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionEase.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionTween.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCQuadCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/math/kazmath/kazmath/GL/matrix.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderCommandPool.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDictionary.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/uthash.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCString.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCMap.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCInteger.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCFloat.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDouble.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCBool.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCNS.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCData.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCCustomCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCGrabber.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCConfiguration.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDirector.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventType.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLabel.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTextureAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCBatchCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCLayer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCScene.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTransition.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCMenu.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCGroupCommand.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSprite.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCImage.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCFrustum.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCMaterialManager.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderMaterial.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/renderer/CCRenderer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerCustom.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventCustom.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCDevice.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCFileUtils.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCSAXParser.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCThread.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCApplication.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCApplicationProtocol.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCGLView.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/CCGLViewProtocol.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCShaderCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccShaders.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/ccUTF8.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCNotificationCenter.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCProfiling.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCUserDefault.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCVertex.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCIMEDelegate.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCIMEDispatcher.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTextureCache.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerTouch.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerKeyboard.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerMouse.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventMouse.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventAcceleration.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCEventListenerAcceleration.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCScheduler.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCComponent.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/CCDeprecated.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCEAGLView.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/CCESRenderer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/RootViewController.mm210"CompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/RootViewController.o ios/RootViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler9967cdd0cbd0b841^cea7ced3cbd0b841^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/RootViewController.mm0000000000000000^4752"CompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/RootViewController.o ios/RootViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/ThreeDots\ iOS.hmap -I/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/include -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/base -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/physics -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/ui -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/network -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/extensions -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/external -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/DerivedSources/i386 -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/DerivedSources -F/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios -include /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-ajsmehdecyrifkdgzcftgznktsup/Prefix.pch -MMD -MT dependencies -MF /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/RootViewController.d --serialize-diagnostics /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/RootViewController.dia -c /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/RootViewController.mm -o /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/RootViewController.o36"3383981C-35FA-4488-8FD7-12DF7204879A-
+b173606D5-3379-4706-8248-340F0CEDD367
+
+CCompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/main.o /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416336848.802452
+e416336848.959126
+r1
+xCompileC
+xbuild/ThreeDots.build/Debug-iphonesimulator/ThreeDots iOS.build/Objects-normal/i386/main.o
+x/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/main.m
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/Simulation/AccelerometerSimulation.h
+d/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCPlatformConfig.h
+oIn file included from /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/main.m:4:
+o/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation/AccelerometerSimulation.h:54:40: warning: 'UIAccelerometer' is deprecated: first deprecated in iOS 5.0 - UIAccelerometer has been replaced by the CoreMotion framework [-Wdeprecated-declarations]
+o@interface CCAccelerometerSimulation : UIAccelerometer <NSMachPortDelegate>
+o                                       ^
+oIn file included from /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/main.m:1:
+oIn file included from /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Prefix.pch:7:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:33:12: note: 'UIAccelerometer' declared here
+o@interface UIAccelerometer : NSObject {
+o           ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/main.m179"CompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/main.o ios/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9692cdd0cbd0b841^fed3f5d0cbd0b841^-1166"In file included from /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/main.m:4:/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation/AccelerometerSimulation.h:54:40: warning: 'UIAccelerometer' is deprecated: first deprecated in iOS 5.0 - UIAccelerometer has been replaced by the CoreMotion framework [-Wdeprecated-declarations]@interface CCAccelerometerSimulation : UIAccelerometer <NSMachPortDelegate>                                       ^In file included from /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/main.m:1:In file included from /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Prefix.pch:7:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:33:12: note: 'UIAccelerometer' declared here@interface UIAccelerometer : NSObject {           ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@124"'UIAccelerometer' is deprecated: first deprecated in iOS 5.0 - UIAccelerometer has been replaced by the CoreMotion framework-416336848#18446744073709551615#0#2(2@84"In file included from /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/main.m:4:-416336848#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@75"file://localhost/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/main.m0000000000000000^3#8#3#8#113#0#21"Apple LLVM 5.0 Notice--2@31"'UIAccelerometer' declared here-416336848#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@199"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h0000000000000000^32#11#32#11#924#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/2d/platform/ios/Simulation/AccelerometerSimulation.h0000000000000000^53#39#53#39#2183#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@75"file://localhost/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/main.m0000000000000000^4537"CompileC build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/main.o ios/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/ThreeDots\ iOS.hmap -I/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/include -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/base -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/physics -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/ui -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/network -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/extensions -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/external -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/DerivedSources/i386 -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/DerivedSources -F/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios -include /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-atnvjkfxeuikfadndwhwwcyknjeq/Prefix.pch -MMD -MT dependencies -MF /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/main.dia -c /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/main.m -o /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/main.o36"3E9E2F28-7E3F-4653-B15D-6C843700CE82-
+b173606D5-3379-4706-8248-340F0CEDD367
+
+CCpResource /Users/bui.khanh/work/git/ThreeDots/Resources/CloseNormal.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/CloseNormal.png
+s416337152.885729
+e416337152.939372
+r1
+xCpResource
+x/Users/bui.khanh/work/git/ThreeDots/Resources/CloseNormal.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/CloseNormal.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/CloseNormal.png173"[1mCpResource[0m /Users/bui.khanh/work/git/ThreeDots/Resources/CloseNormal.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/CloseNormal.png[0medd6e200cdd0b841^5a7ef000cdd0b841^---0#0#1#-19%DVTDocumentLocation2@101"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/CloseNormal.png0038a499dfffdf42^1085"[1mCpResource[0m /Users/bui.khanh/work/git/ThreeDots/Resources/CloseNormal.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/CloseNormal.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/Resources/CloseNormal.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"67A1E990-1D4A-4D06-8940-FFF4B8AD7A4F-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CCpResource /Users/bui.khanh/work/git/ThreeDots/Resources/CloseSelected.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/CloseSelected.png
+s416337152.940753
+e416337152.944342
+r1
+xCpResource
+x/Users/bui.khanh/work/git/ThreeDots/Resources/CloseSelected.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/CloseSelected.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/CloseSelected.png177"[1mCpResource[0m /Users/bui.khanh/work/git/ThreeDots/Resources/CloseSelected.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/CloseSelected.png[0medeff000cdd0b841^98c0f100cdd0b841^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/CloseSelected.png0038a499dfffdf42^1091"[1mCpResource[0m /Users/bui.khanh/work/git/ThreeDots/Resources/CloseSelected.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/CloseSelected.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/Resources/CloseSelected.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"AC28ECB4-85E9-4184-9637-4927FB229078-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CCpResource /Users/bui.khanh/work/git/ThreeDots/Resources/HelloWorld.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/HelloWorld.png
+s416337152.944638
+e416337152.948702
+r1
+xCpResource
+x/Users/bui.khanh/work/git/ThreeDots/Resources/HelloWorld.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/HelloWorld.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/HelloWorld.png171"[1mCpResource[0m /Users/bui.khanh/work/git/ThreeDots/Resources/HelloWorld.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/HelloWorld.png[0md1e9f100cdd0b841^2ae4f200cdd0b841^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/HelloWorld.png0038a499dfffdf42^1082"[1mCpResource[0m /Users/bui.khanh/work/git/ThreeDots/Resources/HelloWorld.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/HelloWorld.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/Resources/HelloWorld.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"1BEEF9A0-37AF-44B3-8050-420E9D55D412-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CCpResource ios/Default-568h@2x.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Default-568h@2x.png
+s416337152.926126
+e416337152.943339
+r1
+xCpResource
+xios/Default-568h@2x.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Default-568h@2x.png139"[1mCpResource[0m ios/Default-568h@2x.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Default-568h@2x.png[0m1b2fed00cdd0b841^7e8cf100cdd0b841^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/Default-568h@2x.png0038a499dfffdf42^1062"[1mCpResource[0m ios/Default-568h@2x.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Default-568h@2x.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Default-568h@2x.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"7AA97D19-CA76-40D3-AB15-4B29D6FE5D4A-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CCpResource ios/Default.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Default.png
+s416337152.953446
+e416337152.958991
+r1
+xCpResource
+xios/Default.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Default.png123"[1mCpResource[0m ios/Default.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Default.png[0m1a30f400cdd0b841^0c93f500cdd0b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/Default.png0038a499dfffdf42^1038"[1mCpResource[0m ios/Default.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Default.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Default.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"6CBFD5D1-4F8E-4C84-8C48-9D926198D637-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CCpResource ios/Default@2x.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Default@2x.png
+s416337152.881597
+e416337152.924441
+r1
+xCpResource
+xios/Default@2x.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Default@2x.png129"[1mCpResource[0m ios/Default@2x.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Default@2x.png[0m48e2e100cdd0b841^4fcaec00cdd0b841^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/Default@2x.png0038a499dfffdf42^1047"[1mCpResource[0m ios/Default@2x.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Default@2x.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Default@2x.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"4516CF96-8FC9-4C05-991A-1A9F6F44162D-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CCpResource ios/Icon-100.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-100.png
+s416337152.881951
+e416337152.886382
+r1
+xCpResource
+xios/Icon-100.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-100.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-100.png125"[1mCpResource[0m ios/Icon-100.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-100.png[0mc6dce100cdd0b841^a0ffe200cdd0b841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/Icon-100.png0038a499dfffdf42^1041"[1mCpResource[0m ios/Icon-100.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-100.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-100.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"4B5067D5-1625-4A9F-8C5C-8C5134DD0563-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CCpResource ios/Icon-114.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-114.png
+s416337152.943291
+e416337152.945921
+r1
+xCpResource
+xios/Icon-114.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-114.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-114.png125"[1mCpResource[0m ios/Icon-114.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-114.png[0mf390f100cdd0b841^b535f200cdd0b841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/Icon-114.png0038a499dfffdf42^1041"[1mCpResource[0m ios/Icon-114.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-114.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-114.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"99C24124-F0A2-41E5-BA09-F95BB2DFA0DC-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CCpResource ios/Icon-120.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-120.png
+s416337152.882403
+e416337152.924562
+r1
+xCpResource
+xios/Icon-120.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-120.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-120.png125"[1mCpResource[0m ios/Icon-120.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-120.png[0m4df4e100cdd0b841^f4deec00cdd0b841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/Icon-120.png0038a499dfffdf42^1041"[1mCpResource[0m ios/Icon-120.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-120.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-120.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"58ADABA4-BE2F-4A4C-96BD-4BF3DCB96BFC-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CCpResource ios/Icon-144.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-144.png
+s416337152.948343
+e416337152.954208
+r1
+xCpResource
+xios/Icon-144.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-144.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-144.png125"[1mCpResource[0m ios/Icon-144.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-144.png[0m44def200cdd0b841^a855f400cdd0b841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/Icon-144.png0038a499dfffdf42^1041"[1mCpResource[0m ios/Icon-144.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-144.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-144.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"6E271ACD-5C1F-4313-BA4F-6AD42EA7A978-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CCpResource ios/Icon-152.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-152.png
+s416337152.888203
+e416337152.941502
+r1
+xCpResource
+xios/Icon-152.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-152.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-152.png125"[1mCpResource[0m ios/Icon-152.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-152.png[0m2d7ae300cdd0b841^4e0cf100cdd0b841^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/Icon-152.png0038a499dfffdf42^1041"[1mCpResource[0m ios/Icon-152.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-152.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-152.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"BCCBA2A8-2615-45C0-8995-B595ABDEDA99-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CCpResource ios/Icon-29.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-29.png
+s416337152.945235
+e416337152.949856
+r1
+xCpResource
+xios/Icon-29.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-29.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-29.png123"[1mCpResource[0m ios/Icon-29.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-29.png[0m6f0ff200cdd0b841^4c35f300cdd0b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/Icon-29.png0038a499dfffdf42^1038"[1mCpResource[0m ios/Icon-29.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-29.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-29.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"99585597-D749-491D-81AA-D7D2C75CF106-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CCpResource ios/Icon-40.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-40.png
+s416337152.947111
+e416337152.951981
+r1
+xCpResource
+xios/Icon-40.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-40.png123"[1mCpResource[0m ios/Icon-40.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-40.png[0mf393f200cdd0b841^9eb5f300cdd0b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/Icon-40.png0038a499dfffdf42^1038"[1mCpResource[0m ios/Icon-40.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-40.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-40.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"B850C180-0174-4642-92F1-F2DAC78CAED9-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CCpResource ios/Icon-50.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-50.png
+s416337152.942787
+e416337152.947056
+r1
+xCpResource
+xios/Icon-50.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-50.png123"[1mCpResource[0m ios/Icon-50.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-50.png[0mc3b6f100cdd0b841^3980f200cdd0b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/Icon-50.png0038a499dfffdf42^1038"[1mCpResource[0m ios/Icon-50.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-50.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-50.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"7D517EFC-8F4C-4426-AA45-7A8D84B8211B-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CCpResource ios/Icon-57.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-57.png
+s416337152.950623
+e416337152.955565
+r1
+xCpResource
+xios/Icon-57.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-57.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-57.png123"[1mCpResource[0m ios/Icon-57.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-57.png[0m1d72f300cdd0b841^43c5f400cdd0b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/Icon-57.png0038a499dfffdf42^1038"[1mCpResource[0m ios/Icon-57.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-57.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-57.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"A14623C4-5AF3-4613-BB3E-720226C5B3CF-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CCpResource ios/Icon-58.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-58.png
+s416337152.955537
+e416337152.966365
+r1
+xCpResource
+xios/Icon-58.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-58.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-58.png123"[1mCpResource[0m ios/Icon-58.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-58.png[0m49bcf400cdd0b841^8d7ff700cdd0b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/Icon-58.png0038a499dfffdf42^1038"[1mCpResource[0m ios/Icon-58.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-58.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-58.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"220A71C5-F09B-4BCE-9B7B-F5492223FACD-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CCpResource ios/Icon-72.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-72.png
+s416337152.926566
+e416337152.941500
+r1
+xCpResource
+xios/Icon-72.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-72.png123"[1mCpResource[0m ios/Icon-72.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-72.png[0m4d4aed00cdd0b841^9912f100cdd0b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/Icon-72.png0038a499dfffdf42^1038"[1mCpResource[0m ios/Icon-72.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-72.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-72.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"B798E96A-A03E-4863-A91D-5EF6A7691CB9-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CCpResource ios/Icon-76.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-76.png
+s416337152.881595
+e416337152.884210
+r1
+xCpResource
+xios/Icon-76.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-76.png123"[1mCpResource[0m ios/Icon-76.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-76.png[0m07cee100cdd0b841^406be200cdd0b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/Icon-76.png0038a499dfffdf42^1038"[1mCpResource[0m ios/Icon-76.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-76.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-76.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"60841104-2B6A-404D-B976-9F03AFD865E2-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CCpResource ios/Icon-80.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-80.png
+s416337152.950545
+e416337152.955840
+r1
+xCpResource
+xios/Icon-80.png
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-80.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Icon-80.png123"[1mCpResource[0m ios/Icon-80.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-80.png[0m3674f300cdd0b841^f0faf400cdd0b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app/Icon-80.png0038a499dfffdf42^1038"[1mCpResource[0m ios/Icon-80.png [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Icon-80.png[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Icon-80.png /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app36"3F27C86E-3123-4416-88A2-4A10BED37F6D-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CGenerateDSYMFile /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app.dSYM /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/ThreeDots\ iOS
+s416337157.622274
+e416337161.972392
+r1
+xGenerateDSYMFile
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app.dSYM
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/ThreeDots iOS
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Generate /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app.dSYM190"[1mGenerateDSYMFile[0m [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app.dSYM[0m /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/ThreeDots\ iOS3c679f05cdd0b841^cff6f809cdd0b841^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots%20iOS.app.dSYM0038a499dfffdf42^1120"[1mGenerateDSYMFile[0m [1m/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app.dSYM[0m /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/ThreeDots\ iOS    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/ThreeDots\ iOS -o /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app.dSYM36"E246CC2C-8570-4B08-BBCC-B965543C6EDC-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CLd /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/ThreeDots\ iOS normal i386
+s416337152.984181
+e416337157.613897
+r1
+xLd
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/ThreeDots iOS
+xnormal
+xi386
+d/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots iOS.build/Objects-normal/i386/ThreeDots iOS.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots iOS.build/Objects-normal/i386/AppController.o
+d/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots iOS.build/Objects-normal/i386/RootViewController.o
+d/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots iOS.build/Objects-normal/i386/AppDelegate.o
+d/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots iOS.build/Objects-normal/i386/main.o
+d/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots iOS.build/Objects-normal/i386/HelloWorldScene.o
+d/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libbox2d iOS.a
+d/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libchipmunk iOS.a
+d/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libcocos2dx iOS.a
+d/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libcocos2dx-extensions iOS.a
+d/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libCocosDenshion iOS.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libz.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libc++abi.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Link /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/ThreeDots iOS106"[1mLd[0m /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/ThreeDots\ iOS normal i3863c11fc00cdd0b841^6c989d05cdd0b841^---0#0#1#--2309"[1mLd[0m /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/ThreeDots\ iOS normal i386    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios -F/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios -filelist /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/ThreeDots\ iOS.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -stdlib=libc++ -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libbox2d\ iOS.a /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libchipmunk\ iOS.a /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libcocos2dx\ iOS.a /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libcocos2dx-extensions\ iOS.a /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/libCocosDenshion\ iOS.a -framework CoreMotion -framework Foundation -framework UIKit -framework CoreGraphics -framework OpenGLES -lz -framework QuartzCore -framework OpenAL -framework AVFoundation -framework AudioToolbox -Xlinker -dependency_info -Xlinker /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/Objects-normal/i386/ThreeDots\ iOS_dependency_info.dat -o /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/ThreeDots\ iOS36"C219E05D-9D07-4ACB-AACE-77B05AB04F93-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CProcessInfoPlistFile /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Info.plist /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Info.plist
+s416337152.869200
+e416337152.873358
+r1
+xProcessInfoPlistFile
+x/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots iOS.app/Info.plist
+x/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Process /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Info.plist131"[1mProcessInfoPlistFile[0m /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Info.plist [1mios/Info.plist[0m4da2de00cdd0b841^e4a1df00cdd0b841^---0#0#1#-19%DVTDocumentLocation2@79"file://localhost/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Info.plist0000000000000000^1127"[1mProcessInfoPlistFile[0m /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Info.plist [1mios/Info.plist[0m    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    builtin-infoPlistUtility /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Info.plist -genpkginfo /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app/Info.plist36"DE8319B7-9959-42B3-82E5-D97F1BCE4750-
+bBD751C95-1B22-4DDC-ABDE-4F377AC822E7
+
+CProcessPCH /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-atnvjkfxeuikfadndwhwwcyknjeq/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416336848.241496
+e416336848.722684
+r1
+xProcessPCH
+x/var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-atnvjkfxeuikfadndwhwwcyknjeq/Prefix.pch.pch
+xios/Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Precompile ios/Prefix.pch262"ProcessPCH /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-atnvjkfxeuikfadndwhwwcyknjeq/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2bf83dd0cbd0b841^8a06b9d0cbd0b841^---0#0#1#-19%DVTDocumentLocation2@79"file://localhost/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Prefix.pch0000000000000000^4537"ProcessPCH /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-atnvjkfxeuikfadndwhwwcyknjeq/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/ThreeDots\ iOS.hmap -I/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/include -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/base -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/physics -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/ui -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/network -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/extensions -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/external -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/DerivedSources/i386 -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/DerivedSources -F/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios --serialize-diagnostics /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-atnvjkfxeuikfadndwhwwcyknjeq/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-atnvjkfxeuikfadndwhwwcyknjeq/Prefix.pch.d -c /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Prefix.pch -o /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-atnvjkfxeuikfadndwhwwcyknjeq/Prefix.pch.pch36"ABCDF3D5-A242-4079-AE7D-A98E940D20A1-
+b173606D5-3379-4706-8248-340F0CEDD367
+
+CProcessPCH++ /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-ajsmehdecyrifkdgzcftgznktsup/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s416336848.238566
+e416336848.793146
+r1
+xProcessPCH++
+x/var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-ajsmehdecyrifkdgzcftgznktsup/Prefix.pch.pch
+xios/Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Precompile ios/Prefix.pch266"ProcessPCH++ /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-ajsmehdecyrifkdgzcftgznktsup/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compilera0373dd0cbd0b841^aa0ccbd0cbd0b841^---0#0#1#-19%DVTDocumentLocation2@79"file://localhost/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Prefix.pch0000000000000000^4668"ProcessPCH++ /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-ajsmehdecyrifkdgzcftgznktsup/Prefix.pch.pch ios/Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/ThreeDots\ iOS.hmap -I/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/include -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/base -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/physics -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/ui -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/network -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/extensions -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/external -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/DerivedSources/i386 -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/DerivedSources -F/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios --serialize-diagnostics /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-ajsmehdecyrifkdgzcftgznktsup/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-ajsmehdecyrifkdgzcftgznktsup/Prefix.pch.d -c /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Prefix.pch -o /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-ajsmehdecyrifkdgzcftgznktsup/Prefix.pch.pch36"34FF7CA7-93F9-41B2-B932-022FF673012A-
+b173606D5-3379-4706-8248-340F0CEDD367
+
+CProcessPCH++ /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-hksqpqyceznnhsfifprpdqhgpnmp/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s416336848.239958
+e416336848.307399
+r1
+xProcessPCH++
+x/var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-hksqpqyceznnhsfifprpdqhgpnmp/Prefix.pch.pch
+xios/Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Precompile ios/Prefix.pch256"ProcessPCH++ /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-hksqpqyceznnhsfifprpdqhgpnmp/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler51873dd0cbd0b841^2ae04ed0cbd0b841^---0#0#1#-19%DVTDocumentLocation2@79"file://localhost/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Prefix.pch0000000000000000^4411"ProcessPCH++ /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-hksqpqyceznnhsfifprpdqhgpnmp/Prefix.pch.pch ios/Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk/platform-tools:/Users/bui.khanh/work/adt-bundle-mac-x86_64-20131030/sdk:/Users/bui.khanh/work/git/cocos2d-x/tools/cocos2d-console/bin:/Users/bui.khanh/.pyenv/shims:/Users/bui.khanh/.pyenv/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/bui.khanh/work/play-2.2.0-RC2"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DUSE_FILE32API -DCC_TARGET_OS_IPHONE -DCOCOS2D_DEBUG=1 -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/ThreeDots\ iOS.hmap -I/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/include -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/base -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/physics -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/math/kazmath -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/ui -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/network -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/audio/include -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/editor-support -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/extensions -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/external -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/external/chipmunk/include/chipmunk -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d/platform/ios -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/../cocos2d/cocos/2d/platform/ios/Simulation -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/DerivedSources/i386 -I/Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/build/ThreeDots.build/Debug-iphonesimulator/ThreeDots\ iOS.build/DerivedSources -F/Users/bui.khanh/work/git/ThreeDots/bin/debug/ios --serialize-diagnostics /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-hksqpqyceznnhsfifprpdqhgpnmp/Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-hksqpqyceznnhsfifprpdqhgpnmp/Prefix.pch.d -c /Users/bui.khanh/work/git/ThreeDots/proj.ios_mac/ios/Prefix.pch -o /var/folders/c4/ltpq0qxn2rb46048slzmdb3jhkg_tw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/Prefix-hksqpqyceznnhsfifprpdqhgpnmp/Prefix.pch.pch36"F9BB62E0-3916-42E8-8354-31B30CBFD1C0-
+b173606D5-3379-4706-8248-340F0CEDD367
+
+CTouch /Users/bui.khanh/work/git/ThreeDots/bin/debug/ios/ThreeDots\ iOS.app
+r0
+

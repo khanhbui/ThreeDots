@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCAffineTransform.cpp \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base/CCAffineTransform.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base/CCGeometry.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base/CCPlatformMacros.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/ccConfig.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/../base/CCPlatformConfig.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/platform/ios/CCPlatformDefine.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/ccMacros.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/../base/CCConsole.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/platform/ios/CCStdC.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/math/kazmath/kazmath/kazmath.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/math/kazmath/kazmath/vec2.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/math/kazmath/kazmath/utility.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/math/kazmath/kazmath/vec3.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/math/kazmath/kazmath/mat3.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/math/kazmath/kazmath/mat4.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/math/kazmath/kazmath/quaternion.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/math/kazmath/kazmath/plane.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/math/kazmath/kazmath/aabb.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/math/kazmath/kazmath/ray2.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/math/kazmath/kazmath/ray3.h

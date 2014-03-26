@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/cocos/base/CCDataVisitor.cpp \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base/CCRef.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base/CCPlatformMacros.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/ccConfig.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/../base/CCPlatformConfig.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/platform/ios/CCPlatformDefine.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base/CCBool.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base/CCDataVisitor.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base/CCInteger.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/platform/CCCommon.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base/CCFloat.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base/CCDouble.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base/CCString.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base/CCArray.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/ccCArray.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/ccMacros.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/../base/CCConsole.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/platform/ios/CCStdC.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base/CCDictionary.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/2d/uthash.h \
+  /Users/bui.khanh/work/git/ThreeDots/cocos2d/build/../cocos/base/CCSet.h
